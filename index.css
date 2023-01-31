@@ -1,0 +1,23 @@
+html {
+    background: black;
+}
+body {
+    margin: 0;
+    background: #273549;
+}
+
+h1 {
+    color: white;
+}
+
+span {
+    color: #10b981;
+}
+
+p {
+    color: gray;
+}
+
+generate {
+    background: #10b981;
+}
